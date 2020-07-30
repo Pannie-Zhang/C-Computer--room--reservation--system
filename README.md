@@ -7,13 +7,13 @@
   * 管理员：给学生、教师创建账号
 #### 3 机房简介
    可以自己在computerRoom.txt中添加机房信息，比如
-   1 20
-   2 50
-   3 100
-   分别表示：
-   1号机房---最大容量20人
-   2号机房---最大容量50人
-   3号机房---最大容量100人
+   1 20  
+   2 50  
+   3 100  
+   分别表示：  
+   1号机房---最大容量20人  
+   2号机房---最大容量50人  
+   3号机房---最大容量100人  
 #### 4 申请简介
    申请的订单每周由管理员负责清空
    学生可以预约未来一周内的机房使用，日期为周一至周五，时间段（上午、下午）
@@ -44,8 +44,8 @@
 ##### Prerequisites
 我使用的是Visual Studio 2015
 附上下载地址：
-简体中文版下载地址：`http://download.microsoft.com/download/B/4/8/B4870509-05CB-447C-878F-2F80E4CB464C/vs2015.com_chs.iso`
-英文版下载地址：`http://download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs2015.com_enu.iso`
+* 简体中文版下载地址：`http://download.microsoft.com/download/B/4/8/B4870509-05CB-447C-878F-2F80E4CB464C/vs2015.com_chs.iso`
+* 英文版下载地址：`http://download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs2015.com_enu.iso`
 ##### Clone the repository
 `git clone https://github.com/Pannie-Zhang/C-Computer--room--reservation--system.git`
 ## Getting Started 
