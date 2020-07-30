@@ -41,14 +41,14 @@
    * 清空预约---清空所有预约记录
    * 注销登录---退出登录
 ## Getting Started 
-#### Prerequisites
+### Prerequisites
 我使用的是Visual Studio 2015，打开项目，直接点击运行即可  
 附上下载地址：
 * 简体中文版下载地址：`http://download.microsoft.com/download/B/4/8/B4870509-05CB-447C-878F-2F80E4CB464C/vs2015.com_chs.iso`
 * 英文版下载地址：`http://download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs2015.com_enu.iso`
-#### Clone the repository
+### Clone the repository
 `git clone https://github.com/Pannie-Zhang/C-Computer--room--reservation--system.git`
-#### Testing
+### Testing
 测试的时候如果出现不成功的现象，可以关注一下项目文件夹中的几个'.txt'文件，检查是否符合读取的书写格式 
 ## Contact 
 任何关于此项目的问题，或者有兴趣交流的朋友，请联系panp_zhang@163.com
