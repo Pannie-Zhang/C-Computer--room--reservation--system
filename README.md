@@ -2,12 +2,15 @@
 #### 1 系统简介
 学校有几个规格不同的机房，由于每次使用都需要找管理人员亲自签字申请方可使用，耗时耗力。另外，“撞车现象”会浪费学生学习时间，“空档太多又浪费机房资源”。现开发一套机房预约的系统，解决这一问题
 #### 2 身份简介
-分别有三种身份使用该程序
-  学生代表：申请使用机房
-  教师：审核学生的预约申请
-  管理员：给学生、教师创建账号
+  * 学生代表：申请使用机房
+  * 教师：审核学生的预约申请
+  * 管理员：给学生、教师创建账号
 #### 3 机房简介
-机房总共有3间
+   可以自己在computerRoom.txt中添加机房信息，比如
+   1 20
+   2 50
+   3 100
+   分别表示：
    1号机房---最大容量20人
    2号机房---最大容量50人
    3号机房---最大容量100人
@@ -37,16 +40,17 @@
    * 查看机房---查看所有机房的信息
    * 清空预约---清空所有预约记录
    * 注销登录---退出登录
-
-
-
-
-
 ## Getting Started 
+##### Prerequisites
+我使用的是Visual Studio 2015
+附上下载地址：
+简体中文版下载地址：`http://download.microsoft.com/download/B/4/8/B4870509-05CB-447C-878F-2F80E4CB464C/vs2015.com_chs.iso`
+英文版下载地址：`http://download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs2015.com_enu.iso`
+##### Clone the repository
+`git clone https://github.com/Pannie-Zhang/C-Computer--room--reservation--system.git`
 ## Getting Started 
 ## Running server
 ## Testing on browser
  
 ## Contact 
-##### 五级标题  
-###### 六级标题 
+任何关于此项目的问题，或者有兴趣交流的朋友，请联系panp_zhang@163.com
